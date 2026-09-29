@@ -1,0 +1,6 @@
+{
+  "name": "PoaStay - Kenyan Accommodation, Travel & Group Trip Coordination",
+  "description": "Smart Kenyan accommodation and travel channel manager with property calendar synchronization, realistic destination transport, Daraja M-Pesa installment payments, group trip coordination, and multi-portal staff management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
